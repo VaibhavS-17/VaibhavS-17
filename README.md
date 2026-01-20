@@ -2,7 +2,7 @@
 
 I am a first-year engineer passionate about building web applications that solve daily management problems. I focus on creating functional tools for students and streamlining data processes.
 
-- 🔭 **I’m currently working on:** A Data Accumulation & Quality Enhancement system using **Next.js** and **PostgreSQL**.
+- 🔭 **I’m currently working on:** A open source project
 - 👯 **I’m looking to collaborate on:** Open source web development projects.
 - 💬 **Ask me about:** React, database management, and building student utilities.
 
